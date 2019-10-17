@@ -1,7 +1,12 @@
 ##Ciudades
 NEREA
+Manu
+Karan
+Guipuzcoa:
 Irun
 Donosti
 Hondarribia
-Manu
-Karan
+Vizcaya:
+Bilbao
+Madrid:
+Madrid
