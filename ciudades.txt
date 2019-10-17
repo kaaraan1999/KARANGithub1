@@ -12,3 +12,7 @@ Madrid:
 Madrid
 Chicago
 Washington DC
+Bilbao
+Amsterdam
+Hendaya
+París
