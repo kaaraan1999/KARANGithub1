@@ -10,3 +10,5 @@ Vizcaya:
 Bilbao
 Madrid:
 Madrid
+Chicago
+Washington DC
